@@ -1,0 +1,1657 @@
+{
+  "title": "2026 SFLEP National-Final Current Affairs Pack",
+  "version": "1.0",
+  "created_at": "2026-10-20",
+  "fact_checked_at": "2026-10-20",
+  "question_count": 60,
+  "distribution": {
+    "UNESCO & China": 14,
+    "UNESCO Creative Cities": 6,
+    "APEC": 15,
+    "Regional & Global Groups": 15,
+    "UN Digital Governance": 10
+  },
+  "refresh_policy": {
+    "quarterly": "Re-check every three months and during the week before the competition.",
+    "annual": "Re-check before each competition season or if major institutional changes occur."
+  },
+  "sources": {
+    "CUR01": {
+      "name": "UNESCO World Heritage — Xixia Imperial Tombs",
+      "url": "https://whc.unesco.org/en/list/1736",
+      "type": "UNESCO"
+    },
+    "CUR02": {
+      "name": "UNESCO World Heritage — Jingdezhen Handicraft Porcelain Industry Sites, Decision 48 COM 8B.16",
+      "url": "https://whc.unesco.org/en/decisions/9170/",
+      "type": "UNESCO"
+    },
+    "CUR03": {
+      "name": "UNESCO ICH — China elements on the Lists",
+      "url": "https://ich.unesco.org/en/state/china-CN?info=elements-on-the-lists",
+      "type": "UNESCO"
+    },
+    "CUR04": {
+      "name": "UNESCO — 58 cities join Creative Cities Network (2025)",
+      "url": "https://www.unesco.org/en/articles/58-cities-join-unesco-creative-cities-network",
+      "type": "UNESCO"
+    },
+    "CUR05": {
+      "name": "UNESCO — Wuxi Creative City of Music / 2026 Creative Cities Dialogue",
+      "url": "https://www.unesco.org/en/articles/creative-cities-gather-wuxi-explore-how-cultural-and-creative-industries-drive-sustainable",
+      "type": "UNESCO"
+    },
+    "CUR06": {
+      "name": "APEC — 2025 Leaders’ Gyeongju Declaration",
+      "url": "https://www.apec.org/meeting-papers/leaders-declarations/2025/2025-apec-leaders--gyeongju-declaration",
+      "type": "APEC"
+    },
+    "CUR07": {
+      "name": "APEC — APEC 2026 China theme and priorities",
+      "url": "https://www.apec.org/press/news-releases/2026/apec-kicks-off-2026-meetings-to-advance-openness--innovation-and-cooperation",
+      "type": "APEC"
+    },
+    "CUR08": {
+      "name": "APEC — 2026 SOM3 / Leaders’ Week in Shenzhen",
+      "url": "https://www.apec.org/engage-with-us/events-calendar/2026/third-senior-officials--meeting-and-related-meetings-%28som3%29",
+      "type": "APEC"
+    },
+    "CUR09": {
+      "name": "ASEAN — Timor-Leste admitted as 11th Member State",
+      "url": "https://asean.org/forging-a-new-era-timor-leste-admitted-into-asean/",
+      "type": "ASEAN"
+    },
+    "CUR10": {
+      "name": "BRICS Brazil — Frequently Asked Questions / membership and partner countries",
+      "url": "https://brics.br/en/about-the-brics/frequently-asked-questions-about-the-brics",
+      "type": "BRICS"
+    },
+    "CUR11": {
+      "name": "G20 South Africa — 2025 Leaders’ Declaration",
+      "url": "https://g20.org/wp-content/uploads/2025/11/2025-G20-Summit-Declaration.pdf",
+      "type": "G20"
+    },
+    "CUR12": {
+      "name": "South African Presidency — G20 South Africa conclusion",
+      "url": "https://www.presidency.gov.za/address-nation-president-cyril-ramaphosa-conclusion-g20-south-africa",
+      "type": "Government"
+    },
+    "CUR13": {
+      "name": "United Nations — Pact for the Future",
+      "url": "https://www.un.org/en/summit-of-the-future/pact-for-the-future",
+      "type": "UN"
+    },
+    "CUR14": {
+      "name": "United Nations — Digital & Emerging Technologies milestones",
+      "url": "https://www.un.org/digital-emerging-technologies/milestones",
+      "type": "UN"
+    },
+    "CUR15": {
+      "name": "UNESCO ICH — Safeguarding programme for Hezhen Yimakan storytelling",
+      "url": "https://ich.unesco.org/en/bsp/safeguarding-programme-for-hezhen-yimakan-storytelling-02474",
+      "type": "UNESCO"
+    }
+  },
+  "questions": [
+    {
+      "id": "CUR001",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "UNESCO & China",
+      "topic": "Xixia Imperial Tombs",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "Which Chinese property was inscribed on the UNESCO World Heritage List in 2025?",
+      "options": [
+        "Xixia Imperial Tombs",
+        "Beijing Central Axis",
+        "Jingdezhen Handicraft Porcelain Industry Sites"
+      ],
+      "answer": 0,
+      "explanation": "Xixia Imperial Tombs were inscribed in 2025.",
+      "quick_rule": "Xixia Imperial Tombs were inscribed in 2025.",
+      "source_ids": [
+        "CUR01"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR002",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "UNESCO & China",
+      "topic": "Xixia Imperial Tombs",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "The Xixia Imperial Tombs are located in:",
+      "options": [
+        "Jiangxi Province",
+        "Ningxia Hui Autonomous Region",
+        "Henan Province"
+      ],
+      "answer": 1,
+      "explanation": "The property lies at the southern foothills of the Helan Mountains in Ningxia.",
+      "quick_rule": "The property lies at the southern foothills of the Helan Mountains in Ningxia.",
+      "source_ids": [
+        "CUR01"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR003",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "UNESCO & China",
+      "topic": "Xixia Imperial Tombs",
+      "difficulty": "C",
+      "question_type": "Current Affairs",
+      "question": "Under which World Heritage criteria were the Xixia Imperial Tombs inscribed?",
+      "options": [
+        "Criteria (iv) and (v)",
+        "Criteria (i) and (vi)",
+        "Criteria (ii) and (iii)"
+      ],
+      "answer": 2,
+      "explanation": "UNESCO inscribed the site under criteria (ii) and (iii).",
+      "quick_rule": "UNESCO inscribed the site under criteria (ii) and (iii).",
+      "source_ids": [
+        "CUR01"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR004",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "UNESCO & China",
+      "topic": "Xixia Imperial Tombs",
+      "difficulty": "C",
+      "question_type": "Current Affairs",
+      "question": "Which description of the Xixia Imperial Tombs is accurate?",
+      "options": [
+        "They include nine imperial mausoleums and 271 subordinate tombs.",
+        "They consist only of one royal palace.",
+        "They are a maritime trading port complex."
+      ],
+      "answer": 0,
+      "explanation": "UNESCO describes nine imperial mausoleums, 271 subordinate tombs and associated structures.",
+      "quick_rule": "UNESCO describes nine imperial mausoleums, 271 subordinate tombs and associated structures.",
+      "source_ids": [
+        "CUR01"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR005",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "UNESCO & China",
+      "topic": "Xixia Imperial Tombs",
+      "difficulty": "C",
+      "question_type": "Current Affairs",
+      "question": "Why are the Xixia Imperial Tombs relevant to intercultural history?",
+      "options": [
+        "They document China's first European colony.",
+        "They reflect a multicultural civilization shaped by Silk Road contacts.",
+        "They were built as a single Buddhist monastery for foreign monks only."
+      ],
+      "answer": 1,
+      "explanation": "UNESCO highlights cultural and religious influences from multiple sources and Silk Road exchange.",
+      "quick_rule": "UNESCO highlights cultural and religious influences from multiple sources and Silk Road exchange.",
+      "source_ids": [
+        "CUR01"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR006",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "UNESCO & China",
+      "topic": "Xixia Imperial Tombs",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "The Xixia Dynasty associated with the tombs was founded by the:",
+      "options": [
+        "Manchus",
+        "Mongols",
+        "Tanguts"
+      ],
+      "answer": 2,
+      "explanation": "UNESCO identifies the Tanguts as the founders of the Xixia Dynasty.",
+      "quick_rule": "UNESCO identifies the Tanguts as the founders of the Xixia Dynasty.",
+      "source_ids": [
+        "CUR01"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR007",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "UNESCO & China",
+      "topic": "Jingdezhen",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "Which Chinese property was newly inscribed on the World Heritage List in 2026?",
+      "options": [
+        "Jingdezhen Handicraft Porcelain Industry Sites",
+        "Xixia Imperial Tombs",
+        "Cultural Landscape of Old Tea Forests of Jingmai Mountain"
+      ],
+      "answer": 0,
+      "explanation": "Jingdezhen Handicraft Porcelain Industry Sites were inscribed in 2026.",
+      "quick_rule": "Jingdezhen Handicraft Porcelain Industry Sites were inscribed in 2026.",
+      "source_ids": [
+        "CUR02"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR008",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "UNESCO & China",
+      "topic": "Jingdezhen",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "The Jingdezhen World Heritage property mainly represents porcelain production from:",
+      "options": [
+        "the 2nd century BCE to the 2nd century CE",
+        "the 10th to the 19th century",
+        "the 20th to the 21st century"
+      ],
+      "answer": 1,
+      "explanation": "Its five component parts represent the handicraft porcelain industry system from the 10th to 19th centuries.",
+      "quick_rule": "Its five component parts represent the handicraft porcelain industry system from the 10th to 19th centuries.",
+      "source_ids": [
+        "CUR02"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR009",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "UNESCO & China",
+      "topic": "Jingdezhen",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "How many component parts make up the Jingdezhen Handicraft Porcelain Industry Sites?",
+      "options": [
+        "Nine",
+        "Three",
+        "Five"
+      ],
+      "answer": 2,
+      "explanation": "UNESCO describes five component parts.",
+      "quick_rule": "UNESCO describes five component parts.",
+      "source_ids": [
+        "CUR02"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR010",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "UNESCO & China",
+      "topic": "Jingdezhen",
+      "difficulty": "C",
+      "question_type": "Current Affairs",
+      "question": "Which statement best captures Jingdezhen's global significance in the 2026 inscription?",
+      "options": [
+        "Its porcelain technology and art profoundly influenced ceramic industries beyond China.",
+        "Its significance is limited to local tourism.",
+        "It was inscribed mainly for natural biodiversity."
+      ],
+      "answer": 0,
+      "explanation": "UNESCO emphasizes Jingdezhen's global industrial, artistic and trading influence.",
+      "quick_rule": "UNESCO emphasizes Jingdezhen's global industrial, artistic and trading influence.",
+      "source_ids": [
+        "CUR02"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR011",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "UNESCO & China",
+      "topic": "Jingdezhen",
+      "difficulty": "C",
+      "question_type": "Current Affairs",
+      "question": "The Jingdezhen property was inscribed under which criteria?",
+      "options": [
+        "(i) only",
+        "(ii), (iii), (iv) and (vi)",
+        "(vii) and (x)"
+      ],
+      "answer": 1,
+      "explanation": "The 2026 decision lists criteria (ii), (iii), (iv) and (vi).",
+      "quick_rule": "The 2026 decision lists criteria (ii), (iii), (iv) and (vi).",
+      "source_ids": [
+        "CUR02"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR012",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "UNESCO & China",
+      "topic": "Hezhen Yimakan",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "Which Chinese living-heritage element appeared on UNESCO's Representative List in 2025?",
+      "options": [
+        "Traditional tea processing techniques",
+        "Spring Festival",
+        "Hezhen Yimakan storytelling"
+      ],
+      "answer": 2,
+      "explanation": "Hezhen Yimakan storytelling appears under China's 2025 Representative List entries.",
+      "quick_rule": "Hezhen Yimakan storytelling appears under China's 2025 Representative List entries.",
+      "source_ids": [
+        "CUR03"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR013",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "UNESCO & China",
+      "topic": "Hezhen Yimakan",
+      "difficulty": "C",
+      "question_type": "Current Affairs",
+      "question": "What additional recognition did Hezhen Yimakan receive in 2025?",
+      "options": [
+        "Its safeguarding programme was selected for the Register of Good Safeguarding Practices.",
+        "It became a World Heritage natural site.",
+        "It was designated a UNESCO Creative City."
+      ],
+      "answer": 0,
+      "explanation": "UNESCO selected the safeguarding programme for the Register of Good Safeguarding Practices.",
+      "quick_rule": "UNESCO selected the safeguarding programme for the Register of Good Safeguarding Practices.",
+      "source_ids": [
+        "CUR15"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR014",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "UNESCO & China",
+      "topic": "China ICH",
+      "difficulty": "C",
+      "question_type": "Current Affairs",
+      "question": "As checked on 20 October 2026, how many Chinese elements are listed by UNESCO across its ICH Lists and Register?",
+      "options": [
+        "38",
+        "45",
+        "61"
+      ],
+      "answer": 1,
+      "explanation": "UNESCO's China page reports 45 inscribed elements; this is a dynamic count and must be refreshed.",
+      "quick_rule": "UNESCO's China page reports 45 inscribed elements; this is a dynamic count and must be refreshed.",
+      "source_ids": [
+        "CUR03"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "quarterly",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR015",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "UNESCO Creative Cities",
+      "topic": "UCCN 2025",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "How many new cities joined UNESCO's Creative Cities Network in the 2025 designation round?",
+      "options": [
+        "66",
+        "21",
+        "58"
+      ],
+      "answer": 2,
+      "explanation": "UNESCO designated 58 new Creative Cities in 2025.",
+      "quick_rule": "UNESCO designated 58 new Creative Cities in 2025.",
+      "source_ids": [
+        "CUR04"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR016",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "UNESCO Creative Cities",
+      "topic": "Wuxi",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "In 2025 Wuxi became China's first UNESCO Creative City in which field?",
+      "options": [
+        "Music",
+        "Film",
+        "Gastronomy"
+      ],
+      "answer": 0,
+      "explanation": "UNESCO identifies Wuxi as China's first Creative City of Music.",
+      "quick_rule": "UNESCO identifies Wuxi as China's first Creative City of Music.",
+      "source_ids": [
+        "CUR05"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR017",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "UNESCO Creative Cities",
+      "topic": "UCCN Fields",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "Which new creative field was added to the UNESCO Creative Cities Network in 2025?",
+      "options": [
+        "Dance",
+        "Architecture",
+        "Fashion"
+      ],
+      "answer": 1,
+      "explanation": "Architecture was added as a new field in 2025.",
+      "quick_rule": "Architecture was added as a new field in 2025.",
+      "source_ids": [
+        "CUR04"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR018",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "UNESCO Creative Cities",
+      "topic": "UCCN Scale",
+      "difficulty": "C",
+      "question_type": "Current Affairs",
+      "question": "After the 2025 designations, UNESCO said the Creative Cities Network included:",
+      "options": [
+        "over 1,000 cities in every UN Member State",
+        "193 cities in 58 countries",
+        "408 cities in more than 100 countries"
+      ],
+      "answer": 2,
+      "explanation": "UNESCO reported 408 cities in more than 100 countries.",
+      "quick_rule": "UNESCO reported 408 cities in more than 100 countries.",
+      "source_ids": [
+        "CUR04"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR019",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "UNESCO Creative Cities",
+      "topic": "Wuxi Dialogue",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "The 2026 Wuxi Creative Cities Dialogue focused on:",
+      "options": [
+        "cultural and creative industries driving sustainable urban development",
+        "military heritage protection",
+        "global currency coordination"
+      ],
+      "answer": 0,
+      "explanation": "The May 2026 dialogue centered on cultural and creative industries and sustainable urban development.",
+      "quick_rule": "The May 2026 dialogue centered on cultural and creative industries and sustainable urban development.",
+      "source_ids": [
+        "CUR05"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR020",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "UNESCO Creative Cities",
+      "topic": "Wuxi Dialogue",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "When did Wuxi host the 2026 UNESCO Creative Cities Dialogue?",
+      "options": [
+        "1–3 January 2026",
+        "14–16 May 2026",
+        "31 October–1 November 2026"
+      ],
+      "answer": 1,
+      "explanation": "UNESCO reports that Wuxi hosted the dialogue from 14 to 16 May 2026.",
+      "quick_rule": "UNESCO reports that Wuxi hosted the dialogue from 14 to 16 May 2026.",
+      "source_ids": [
+        "CUR05"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR021",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "APEC",
+      "topic": "APEC 2025",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "Where did APEC Economic Leaders meet in 2025?",
+      "options": [
+        "Johannesburg, South Africa",
+        "Shenzhen, China",
+        "Gyeongju, Republic of Korea"
+      ],
+      "answer": 2,
+      "explanation": "The 2025 APEC Economic Leaders' Meeting was held in Gyeongju.",
+      "quick_rule": "The 2025 APEC Economic Leaders' Meeting was held in Gyeongju.",
+      "source_ids": [
+        "CUR06"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR022",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "APEC",
+      "topic": "APEC 2025",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "What was the 2025 APEC theme?",
+      "options": [
+        "Building a Sustainable Tomorrow",
+        "Building an Asia-Pacific Community to Prosper Together",
+        "Solidarity, Equality and Sustainability"
+      ],
+      "answer": 0,
+      "explanation": "Korea's 2025 APEC theme was “Building a Sustainable Tomorrow.”",
+      "quick_rule": "Korea's 2025 APEC theme was “Building a Sustainable Tomorrow.",
+      "source_ids": [
+        "CUR06"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR023",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "APEC",
+      "topic": "APEC 2025",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "Which trio were APEC 2025's stated priorities?",
+      "options": [
+        "Openness, Innovation, Cooperation",
+        "Connect, Innovate, Prosper",
+        "Peace, Culture, Heritage"
+      ],
+      "answer": 1,
+      "explanation": "The Gyeongju Declaration identifies Connect, Innovate and Prosper.",
+      "quick_rule": "The Gyeongju Declaration identifies Connect, Innovate and Prosper.",
+      "source_ids": [
+        "CUR06"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR024",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "APEC",
+      "topic": "APEC Membership",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "How many member economies does APEC have?",
+      "options": [
+        "27",
+        "11",
+        "21"
+      ],
+      "answer": 2,
+      "explanation": "APEC comprises 21 member economies.",
+      "quick_rule": "APEC comprises 21 member economies.",
+      "source_ids": [
+        "CUR06"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR025",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "APEC",
+      "topic": "APEC 2025 AI",
+      "difficulty": "C",
+      "question_type": "Current Affairs",
+      "question": "What AI-related outcome did APEC Leaders endorse in 2025?",
+      "options": [
+        "The APEC AI Initiative",
+        "The Global Digital Compact",
+        "The UNESCO AI Heritage Convention"
+      ],
+      "answer": 0,
+      "explanation": "The 2025 APEC leaders endorsed the APEC AI Initiative.",
+      "quick_rule": "The 2025 APEC leaders endorsed the APEC AI Initiative.",
+      "source_ids": [
+        "CUR06"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR026",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "APEC",
+      "topic": "APEC 2025",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "Which economy hosted APEC in 2025?",
+      "options": [
+        "China",
+        "Republic of Korea",
+        "Viet Nam"
+      ],
+      "answer": 1,
+      "explanation": "The Republic of Korea hosted APEC in 2025.",
+      "quick_rule": "The Republic of Korea hosted APEC in 2025.",
+      "source_ids": [
+        "CUR06"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR027",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "APEC",
+      "topic": "APEC 2026",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "Which economy is the APEC host in 2026?",
+      "options": [
+        "Mexico",
+        "Viet Nam",
+        "China"
+      ],
+      "answer": 2,
+      "explanation": "China is the APEC host economy in 2026.",
+      "quick_rule": "China is the APEC host economy in 2026.",
+      "source_ids": [
+        "CUR07"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR028",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "APEC",
+      "topic": "APEC 2026",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "APEC 2026 marks which hosting milestone for China?",
+      "options": [
+        "China's third time hosting APEC",
+        "China's first time hosting APEC",
+        "China's tenth time hosting APEC"
+      ],
+      "answer": 0,
+      "explanation": "APEC states that 2026 is China's third time as host.",
+      "quick_rule": "APEC states that 2026 is China's third time as host.",
+      "source_ids": [
+        "CUR07"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR029",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "APEC",
+      "topic": "APEC 2026",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "What is APEC China's 2026 host-year theme?",
+      "options": [
+        "Building a Sustainable Tomorrow",
+        "Building an Asia-Pacific Community to Prosper Together",
+        "Connect, Innovate, Prosper"
+      ],
+      "answer": 1,
+      "explanation": "China's 2026 theme is “Building an Asia-Pacific Community to Prosper Together.”",
+      "quick_rule": "China's 2026 theme is “Building an Asia-Pacific Community to Prosper Together.",
+      "source_ids": [
+        "CUR07"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR030",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "APEC",
+      "topic": "APEC 2026",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "Which set gives China's three APEC 2026 priorities?",
+      "options": [
+        "Security, Tariffs, Expansion",
+        "Connect, Innovate, Prosper",
+        "Openness, Innovation, Cooperation"
+      ],
+      "answer": 2,
+      "explanation": "APEC 2026 is organized around Openness, Innovation and Cooperation.",
+      "quick_rule": "APEC 2026 is organized around Openness, Innovation and Cooperation.",
+      "source_ids": [
+        "CUR07"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR031",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "APEC",
+      "topic": "APEC 2026 Meetings",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "The first APEC Senior Officials' Meeting cluster of 2026 was held in:",
+      "options": [
+        "Guangzhou",
+        "Dalian",
+        "Gyeongju"
+      ],
+      "answer": 0,
+      "explanation": "China opened its APEC 2026 host year with meetings in Guangzhou.",
+      "quick_rule": "China opened its APEC 2026 host year with meetings in Guangzhou.",
+      "source_ids": [
+        "CUR07"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR032",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "APEC",
+      "topic": "APEC 2026 Meetings",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "The second APEC Senior Officials' Meeting of 2026 convened in:",
+      "options": [
+        "Ningxia",
+        "Shanghai",
+        "Seoul"
+      ],
+      "answer": 1,
+      "explanation": "APEC's second senior-officials meeting of 2026 took place in Shanghai.",
+      "quick_rule": "APEC's second senior-officials meeting of 2026 took place in Shanghai.",
+      "source_ids": [
+        "CUR07"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR033",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "APEC",
+      "topic": "APEC 2026 Meetings",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "APEC SOM3 in August 2026 was held in:",
+      "options": [
+        "Wuxi",
+        "Shenzhen",
+        "Dalian"
+      ],
+      "answer": 2,
+      "explanation": "APEC SOM3 ran in Dalian from 17 to 28 August 2026.",
+      "quick_rule": "APEC SOM3 ran in Dalian from 17 to 28 August 2026.",
+      "source_ids": [
+        "CUR08"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR034",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "APEC",
+      "topic": "APEC 2026 Leaders' Week",
+      "difficulty": "C",
+      "question_type": "Current Affairs",
+      "question": "According to APEC's 2026 schedule, Economic Leaders' Week is to culminate in which Chinese city in November?",
+      "options": [
+        "Shenzhen",
+        "Guangzhou",
+        "Suzhou"
+      ],
+      "answer": 0,
+      "explanation": "APEC's SOM3 page states that Leaders' Week will take place in Shenzhen in November 2026.",
+      "quick_rule": "APEC's SOM3 page states that Leaders' Week will take place in Shenzhen in November 2026.",
+      "source_ids": [
+        "CUR08"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "quarterly",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR035",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "APEC",
+      "topic": "APEC Host Sequence",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "Which economy is scheduled to host APEC in 2027?",
+      "options": [
+        "Mexico",
+        "Viet Nam",
+        "Singapore"
+      ],
+      "answer": 1,
+      "explanation": "The 2025 Gyeongju Declaration lists Viet Nam as the 2027 host.",
+      "quick_rule": "The 2025 Gyeongju Declaration lists Viet Nam as the 2027 host.",
+      "source_ids": [
+        "CUR06"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR036",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "Regional & Global Groups",
+      "topic": "ASEAN",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "Which country became ASEAN's 11th Member State in 2025?",
+      "options": [
+        "Sri Lanka",
+        "Papua New Guinea",
+        "Timor-Leste"
+      ],
+      "answer": 2,
+      "explanation": "Timor-Leste was admitted as ASEAN's 11th Member State.",
+      "quick_rule": "Timor-Leste was admitted as ASEAN's 11th Member State.",
+      "source_ids": [
+        "CUR09"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "quarterly",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR037",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "Regional & Global Groups",
+      "topic": "ASEAN",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "On what date was Timor-Leste formally admitted into ASEAN?",
+      "options": [
+        "26 October 2025",
+        "1 January 2025",
+        "22 September 2024"
+      ],
+      "answer": 0,
+      "explanation": "ASEAN leaders admitted Timor-Leste on 26 October 2025.",
+      "quick_rule": "ASEAN leaders admitted Timor-Leste on 26 October 2025.",
+      "source_ids": [
+        "CUR09"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR038",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "Regional & Global Groups",
+      "topic": "ASEAN",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "Timor-Leste's admission took place during which ASEAN Summit?",
+      "options": [
+        "41st ASEAN Summit",
+        "47th ASEAN Summit",
+        "50th ASEAN Summit"
+      ],
+      "answer": 1,
+      "explanation": "The declaration was signed during the opening of the 47th ASEAN Summit.",
+      "quick_rule": "The declaration was signed during the opening of the 47th ASEAN Summit.",
+      "source_ids": [
+        "CUR09"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR039",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "Regional & Global Groups",
+      "topic": "ASEAN",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "When did Timor-Leste officially apply for ASEAN membership?",
+      "options": [
+        "2022",
+        "2001",
+        "2011"
+      ],
+      "answer": 2,
+      "explanation": "ASEAN records Timor-Leste's application in 2011.",
+      "quick_rule": "ASEAN records Timor-Leste's application in 2011.",
+      "source_ids": [
+        "CUR09"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR040",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "Regional & Global Groups",
+      "topic": "ASEAN",
+      "difficulty": "C",
+      "question_type": "Current Affairs",
+      "question": "ASEAN granted Timor-Leste Observer Status after agreeing in principle to admit it in:",
+      "options": [
+        "2022",
+        "2015",
+        "2025"
+      ],
+      "answer": 0,
+      "explanation": "ASEAN leaders agreed in principle in 2022 and granted Observer Status.",
+      "quick_rule": "ASEAN leaders agreed in principle in 2022 and granted Observer Status.",
+      "source_ids": [
+        "CUR09"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR041",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "Regional & Global Groups",
+      "topic": "ASEAN",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "The Roadmap for Timor-Leste's Full Membership was adopted in:",
+      "options": [
+        "2011",
+        "2023",
+        "2026"
+      ],
+      "answer": 1,
+      "explanation": "ASEAN adopted the Roadmap in 2023.",
+      "quick_rule": "ASEAN adopted the Roadmap in 2023.",
+      "source_ids": [
+        "CUR09"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR042",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "Regional & Global Groups",
+      "topic": "BRICS",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "Which country formally entered BRICS as a member in January 2025?",
+      "options": [
+        "Vietnam",
+        "Malaysia",
+        "Indonesia"
+      ],
+      "answer": 2,
+      "explanation": "Brazil's BRICS presidency officially announced Indonesia's formal entry on 6 January 2025.",
+      "quick_rule": "Brazil's BRICS presidency officially announced Indonesia's formal entry on 6 January 2025.",
+      "source_ids": [
+        "CUR10"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "quarterly",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR043",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "Regional & Global Groups",
+      "topic": "BRICS",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "The BRICS 'partner country' category was created at which summit?",
+      "options": [
+        "The 2024 Kazan Summit",
+        "The 2023 Johannesburg Summit",
+        "The 2025 Johannesburg G20 Summit"
+      ],
+      "answer": 0,
+      "explanation": "BRICS created the partner-country status at the 16th Summit in Kazan in 2024.",
+      "quick_rule": "BRICS created the partner-country status at the 16th Summit in Kazan in 2024.",
+      "source_ids": [
+        "CUR10"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR044",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "Regional & Global Groups",
+      "topic": "BRICS",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "How many countries were initially announced as BRICS partner countries for the start of 2025?",
+      "options": [
+        "Five",
+        "Nine",
+        "Twenty-one"
+      ],
+      "answer": 1,
+      "explanation": "Nine first partner countries were announced for 2025.",
+      "quick_rule": "Nine first partner countries were announced for 2025.",
+      "source_ids": [
+        "CUR10"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "quarterly",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR045",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "Regional & Global Groups",
+      "topic": "BRICS",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "Which country became the tenth BRICS partner country after the initial 2025 group?",
+      "options": [
+        "Chile",
+        "Japan",
+        "Vietnam"
+      ],
+      "answer": 2,
+      "explanation": "BRICS Brazil later announced Vietnam as the tenth partner country.",
+      "quick_rule": "BRICS Brazil later announced Vietnam as the tenth partner country.",
+      "source_ids": [
+        "CUR10"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "quarterly",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR046",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "Regional & Global Groups",
+      "topic": "G20",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "What was historically significant about the 2025 G20 Leaders' Summit?",
+      "options": [
+        "It was the first G20 Leaders' Summit held on African soil.",
+        "It was the first G20 summit ever held in Asia.",
+        "It created ASEAN."
+      ],
+      "answer": 0,
+      "explanation": "South Africa hosted the first G20 Leaders' Summit on the African continent.",
+      "quick_rule": "South Africa hosted the first G20 Leaders' Summit on the African continent.",
+      "source_ids": [
+        "CUR11"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR047",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "Regional & Global Groups",
+      "topic": "G20",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "Where was the 2025 G20 Leaders' Summit held?",
+      "options": [
+        "Gyeongju, Republic of Korea",
+        "Johannesburg, South Africa",
+        "Geneva, Switzerland"
+      ],
+      "answer": 1,
+      "explanation": "The summit took place in Johannesburg on 22–23 November 2025.",
+      "quick_rule": "The summit took place in Johannesburg on 22–23 November 2025.",
+      "source_ids": [
+        "CUR11"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR048",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "Regional & Global Groups",
+      "topic": "G20",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "What was the core theme of South Africa's 2025 G20 Presidency?",
+      "options": [
+        "Openness, Innovation, Cooperation",
+        "Connect, Innovate, Prosper",
+        "Solidarity, Equality and Sustainability"
+      ],
+      "answer": 2,
+      "explanation": "South Africa's G20 theme was Solidarity, Equality and Sustainability.",
+      "quick_rule": "South Africa's G20 theme was Solidarity, Equality and Sustainability.",
+      "source_ids": [
+        "CUR11"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR049",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "Regional & Global Groups",
+      "topic": "G20",
+      "difficulty": "C",
+      "question_type": "Current Affairs",
+      "question": "Which concept did South Africa prominently invoke at the 2025 G20 Summit to stress interdependence?",
+      "options": [
+        "Ubuntu",
+        "Wuwei",
+        "Keigo"
+      ],
+      "answer": 0,
+      "explanation": "The Leaders' Declaration explicitly invokes Ubuntu, often summarized as “I am because we are.”",
+      "quick_rule": "The Leaders' Declaration explicitly invokes Ubuntu, often summarized as “I am because we are.",
+      "source_ids": [
+        "CUR11"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR050",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "Regional & Global Groups",
+      "topic": "G20",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "Which country holds the G20 presidency in 2026 according to the 2025 handover?",
+      "options": [
+        "South Africa",
+        "United States",
+        "Brazil"
+      ],
+      "answer": 1,
+      "explanation": "South Africa formally handed the G20 presidency for 2026 to the United States.",
+      "quick_rule": "South Africa formally handed the G20 presidency for 2026 to the United States.",
+      "source_ids": [
+        "CUR12"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "quarterly",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR051",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "UN Digital Governance",
+      "topic": "Pact for the Future",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "When was the Pact for the Future adopted?",
+      "options": [
+        "6 July 2026",
+        "1 January 2025",
+        "22 September 2024"
+      ],
+      "answer": 2,
+      "explanation": "World leaders adopted the Pact at the Summit of the Future on 22 September 2024.",
+      "quick_rule": "World leaders adopted the Pact at the Summit of the Future on 22 September 2024.",
+      "source_ids": [
+        "CUR13"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR052",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "UN Digital Governance",
+      "topic": "Pact Annexes",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "Which two documents were adopted as annexes to the Pact for the Future?",
+      "options": [
+        "Global Digital Compact and Declaration on Future Generations",
+        "Paris Agreement and 2030 Agenda",
+        "UN Charter and Universal Declaration of Human Rights"
+      ],
+      "answer": 0,
+      "explanation": "The Pact's two annexes are the Global Digital Compact and Declaration on Future Generations.",
+      "quick_rule": "The Pact's two annexes are the Global Digital Compact and Declaration on Future Generations.",
+      "source_ids": [
+        "CUR13"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR053",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "UN Digital Governance",
+      "topic": "Global Digital Compact",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "The Global Digital Compact is primarily a framework for:",
+      "options": [
+        "World Heritage inscription",
+        "global digital cooperation and AI governance",
+        "international sports regulation"
+      ],
+      "answer": 1,
+      "explanation": "The Compact provides a shared framework for digital cooperation and AI governance.",
+      "quick_rule": "The Compact provides a shared framework for digital cooperation and AI governance.",
+      "source_ids": [
+        "CUR13"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR054",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "UN Digital Governance",
+      "topic": "UN ODET",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "What institutional change occurred at the UN in 2025?",
+      "options": [
+        "The WTO became a UN principal organ.",
+        "UNESCO became a G20 member.",
+        "The Office for Digital and Emerging Technologies was established."
+      ],
+      "answer": 2,
+      "explanation": "The former technology envoy office transitioned into the UN Office for Digital and Emerging Technologies.",
+      "quick_rule": "The former technology envoy office transitioned into the UN Office for Digital and Emerging Technologies.",
+      "source_ids": [
+        "CUR14"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR055",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "UN Digital Governance",
+      "topic": "AI Governance",
+      "difficulty": "C",
+      "question_type": "Current Affairs",
+      "question": "Which AI governance mechanisms did the UN General Assembly establish in 2025?",
+      "options": [
+        "An Independent International Scientific Panel on AI and a Global Dialogue on AI Governance",
+        "A World AI Court and an AI Security Council",
+        "A UNESCO AI Heritage List and a WTO AI tariff board"
+      ],
+      "answer": 0,
+      "explanation": "The UN established the Scientific Panel and Global Dialogue mechanisms.",
+      "quick_rule": "The UN established the Scientific Panel and Global Dialogue mechanisms.",
+      "source_ids": [
+        "CUR14"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "quarterly",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR056",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "UN Digital Governance",
+      "topic": "AI Scientific Panel",
+      "difficulty": "C",
+      "question_type": "Current Affairs",
+      "question": "What role is the Independent International Scientific Panel on AI intended to play?",
+      "options": [
+        "Regulate all private AI companies directly",
+        "Provide a common scientific basis for global AI-governance discussions",
+        "Replace national science academies"
+      ],
+      "answer": 1,
+      "explanation": "The Panel is designed to provide shared scientific assessments for governance dialogue.",
+      "quick_rule": "The Panel is designed to provide shared scientific assessments for governance dialogue.",
+      "source_ids": [
+        "CUR14"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "quarterly",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR057",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "UN Digital Governance",
+      "topic": "AI Governance 2026",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "What did the UN AI Scientific Panel issue in 2026 before the first Global Dialogue?",
+      "options": [
+        "The 2030 Agenda",
+        "A binding global AI treaty",
+        "A Preliminary Report"
+      ],
+      "answer": 2,
+      "explanation": "The Panel issued its Preliminary Report as a common scientific starting point.",
+      "quick_rule": "The Panel issued its Preliminary Report as a common scientific starting point.",
+      "source_ids": [
+        "CUR14"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "annual",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR058",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "UN Digital Governance",
+      "topic": "Global Dialogue 2026",
+      "difficulty": "B",
+      "question_type": "Current Affairs",
+      "question": "Where and when was the first Global Dialogue on Artificial Intelligence Governance held?",
+      "options": [
+        "Geneva, 6–7 July 2026",
+        "New York, 3–4 May 2027",
+        "Paris, 22 September 2024"
+      ],
+      "answer": 0,
+      "explanation": "The first Global Dialogue was held in Geneva on 6–7 July 2026.",
+      "quick_rule": "The first Global Dialogue was held in Geneva on 6–7 July 2026.",
+      "source_ids": [
+        "CUR14"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "quarterly",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR059",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "UN Digital Governance",
+      "topic": "Global Dialogue 2027",
+      "difficulty": "C",
+      "question_type": "Current Affairs",
+      "question": "Where is the second annual Global Dialogue on AI Governance scheduled for 2027?",
+      "options": [
+        "Geneva",
+        "New York",
+        "Johannesburg"
+      ],
+      "answer": 1,
+      "explanation": "The UN milestone page schedules the second annual Dialogue for New York on 3–4 May 2027.",
+      "quick_rule": "The UN milestone page schedules the second annual Dialogue for New York on 3–4 May 2027.",
+      "source_ids": [
+        "CUR14"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "quarterly",
+      "knowledge_updated_at": "2026-10-20"
+    },
+    {
+      "id": "CUR060",
+      "module": "Current Affairs 2025–2026",
+      "subcategory": "UN Digital Governance",
+      "topic": "GDC Review",
+      "difficulty": "C",
+      "question_type": "Current Affairs",
+      "question": "When is the UN's high-level review of the Global Digital Compact scheduled?",
+      "options": [
+        "Only after 2035",
+        "During the 80th session in 2025",
+        "During the 82nd session of the General Assembly in 2027"
+      ],
+      "answer": 2,
+      "explanation": "The high-level review is scheduled during the General Assembly's 82nd session in 2027.",
+      "quick_rule": "The high-level review is scheduled during the General Assembly's 82nd session in 2027.",
+      "source_ids": [
+        "CUR13"
+      ],
+      "status": "dynamic_current_affairs",
+      "verification_tier": "DYN",
+      "dynamic_fact": true,
+      "fact_checked_at": "2026-10-20",
+      "refresh_class": "quarterly",
+      "knowledge_updated_at": "2026-10-20"
+    }
+  ]
+}

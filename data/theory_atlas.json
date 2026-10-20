@@ -1,0 +1,601 @@
+{
+  "version": "2.3",
+  "extra_theory_card_count": 19,
+  "enhanced_existing_theory_cards": 11,
+  "extra_cards": {
+    "Intercultural Theory|Iceberg Model": {
+      "key": "Intercultural Theory|Iceberg Model",
+      "module": "Intercultural Theory",
+      "title": "Iceberg Model of Culture",
+      "subtitle": "文化冰山模型",
+      "summary": "Use the iceberg model to separate visible cultural products from deeper values, assumptions and worldview. It is a framing tool rather than a predictive law.",
+      "rules": [
+        "Visible layer: food, dress, language, rituals, festivals and observable etiquette.",
+        "Hidden layer: values, beliefs, assumptions, attitudes to authority, concepts of self, time and relationships.",
+        "Misunderstandings often arise when people react to visible behavior without examining the hidden assumptions behind it."
+      ],
+      "traps": [
+        "The model simplifies reality; culture is not literally split into only two layers.",
+        "Visible difference does not automatically mean deep value conflict."
+      ],
+      "topics": [
+        "Visible culture",
+        "Hidden assumptions",
+        "Values",
+        "Behavior"
+      ],
+      "sourceIds": [
+        "SRC73"
+      ],
+      "qids": [],
+      "atlasOnly": true,
+      "visual": "iceberg",
+      "memory": "Remember: what you notice first is only the tip; most meaning sits under the waterline."
+    },
+    "Intercultural Theory|Bennett DMIS": {
+      "key": "Intercultural Theory|Bennett DMIS",
+      "module": "Intercultural Theory",
+      "title": "Bennett’s DMIS",
+      "subtitle": "本尼特跨文化敏感性发展模式",
+      "summary": "DMIS explains movement from ethnocentric to ethnorelative orientations in how people interpret cultural difference.",
+      "rules": [
+        "Ethnocentric stages: Denial → Defense → Minimization.",
+        "Ethnorelative stages: Acceptance → Adaptation → Integration.",
+        "Progress means greater ability to interpret difference without reducing it to threat or sameness."
+      ],
+      "traps": [
+        "The stages are developmental tendencies, not rigid labels for judging people.",
+        "Minimization can sound tolerant but may erase real difference."
+      ],
+      "topics": [
+        "Ethnocentrism",
+        "Ethnorelativism",
+        "Adaptation"
+      ],
+      "sourceIds": [
+        "SRC73"
+      ],
+      "qids": [],
+      "atlasOnly": true,
+      "visual": "dmis",
+      "memory": "Think of a staircase from “They are wrong” to “Difference can be understood and integrated.”"
+    },
+    "Intercultural Theory|Berry Acculturation": {
+      "key": "Intercultural Theory|Berry Acculturation",
+      "module": "Intercultural Theory",
+      "title": "Berry’s Acculturation Strategies",
+      "subtitle": "贝瑞文化适应策略",
+      "summary": "Berry maps adaptation strategies with two questions: keep original culture? seek participation in the larger society?",
+      "rules": [
+        "Integration: keep original culture + participate in larger society.",
+        "Assimilation: do not maintain original culture + participate in larger society.",
+        "Separation: maintain original culture + low participation in larger society.",
+        "Marginalization: low maintenance + low participation."
+      ],
+      "traps": [
+        "These are relational strategies shaped by context, not simply personal preference.",
+        "Integration is not the same as total assimilation."
+      ],
+      "topics": [
+        "Acculturation",
+        "Integration",
+        "Assimilation",
+        "Separation",
+        "Marginalization"
+      ],
+      "sourceIds": [
+        "SRC73"
+      ],
+      "qids": [],
+      "atlasOnly": true,
+      "visual": "berry",
+      "memory": "Two yes/no questions create a four-box map."
+    },
+    "Intercultural Theory|Cultural Intelligence": {
+      "key": "Intercultural Theory|Cultural Intelligence",
+      "module": "Intercultural Theory",
+      "title": "Cultural Intelligence (CQ)",
+      "subtitle": "文化智商 / 文化智力",
+      "summary": "CQ explains how people function effectively across cultural contexts through knowledge, motivation and flexible action.",
+      "rules": [
+        "Drive CQ: interest, confidence and motivation to function cross-culturally.",
+        "Knowledge CQ: understanding systems, norms and conventions.",
+        "Strategy CQ: planning, monitoring and revising one’s interpretation.",
+        "Action CQ: adapting verbal and nonverbal behavior appropriately."
+      ],
+      "traps": [
+        "High CQ does not mean mimicking every behavior you see.",
+        "Knowledge without reflection and adjustment is not enough."
+      ],
+      "topics": [
+        "CQ Drive",
+        "CQ Knowledge",
+        "CQ Strategy",
+        "CQ Action"
+      ],
+      "sourceIds": [
+        "SRC73"
+      ],
+      "qids": [],
+      "atlasOnly": true,
+      "visual": "cq",
+      "memory": "CQ works like four gears: want to learn, know the system, plan mindfully, act flexibly."
+    },
+    "Intercultural Theory|Identity Negotiation": {
+      "key": "Intercultural Theory|Identity Negotiation",
+      "module": "Intercultural Theory",
+      "title": "Identity Negotiation Theory",
+      "subtitle": "身份协商理论",
+      "summary": "Identity negotiation focuses on how people seek security, inclusion, trust and recognition while presenting themselves in intercultural interaction.",
+      "rules": [
+        "Interaction quality improves when people feel understood, respected and affirmed.",
+        "Identity is not only carried by the self; it is negotiated through recognition from others.",
+        "Trust, empathy and mindful communication support smoother identity negotiation."
+      ],
+      "traps": [
+        "Identity negotiation is broader than face-saving in a single conflict episode.",
+        "Recognition does not require full agreement."
+      ],
+      "topics": [
+        "Identity security",
+        "Inclusion",
+        "Trust",
+        "Recognition"
+      ],
+      "sourceIds": [
+        "SRC73"
+      ],
+      "qids": [],
+      "atlasOnly": true,
+      "visual": "identityneg",
+      "memory": "Ask: Do I feel seen, safe and recognized here?"
+    },
+    "Intercultural Theory|CTI": {
+      "key": "Intercultural Theory|CTI",
+      "module": "Intercultural Theory",
+      "title": "Communication Theory of Identity (CTI)",
+      "subtitle": "身份传播理论",
+      "summary": "CTI explains identity through layered frames and the gaps that can emerge among them.",
+      "rules": [
+        "Personal frame: self-concept.",
+        "Enacted frame: identity communicated in interaction.",
+        "Relational frame: identity shaped in relationships.",
+        "Communal frame: identity grounded in group membership."
+      ],
+      "traps": [
+        "A mismatch between frames is common and analytically important.",
+        "Do not reduce identity to nationality alone."
+      ],
+      "topics": [
+        "Personal frame",
+        "Enacted frame",
+        "Relational frame",
+        "Communal frame"
+      ],
+      "sourceIds": [
+        "SRC73"
+      ],
+      "qids": [],
+      "atlasOnly": true,
+      "visual": "cti",
+      "memory": "Think nested circles plus possible gaps between how I see myself and how identity is enacted or recognized."
+    },
+    "Intercultural Theory|URT": {
+      "key": "Intercultural Theory|URT",
+      "module": "Intercultural Theory",
+      "title": "Uncertainty Reduction Theory (URT)",
+      "subtitle": "不确定性降低理论",
+      "summary": "URT examines how people seek information in initial interactions to make others more predictable and understandable.",
+      "rules": [
+        "Passive strategy: observe.",
+        "Active strategy: seek information indirectly, for example through others or background research.",
+        "Interactive strategy: ask directly and engage."
+      ],
+      "traps": [
+        "URT focuses on early interaction and prediction; AUM adds anxiety and mindful management.",
+        "More information is useful only if interpreted carefully."
+      ],
+      "topics": [
+        "Initial interaction",
+        "Information seeking",
+        "Prediction"
+      ],
+      "sourceIds": [
+        "SRC73"
+      ],
+      "qids": [],
+      "atlasOnly": true,
+      "visual": "urt",
+      "memory": "Three moves: watch, research, ask."
+    },
+    "Intercultural Theory|EVT": {
+      "key": "Intercultural Theory|EVT",
+      "module": "Intercultural Theory",
+      "title": "Expectancy Violations Theory (EVT)",
+      "subtitle": "期待违背理论",
+      "summary": "EVT explains what happens when behavior departs from what we expected, especially in nonverbal and interactional contexts.",
+      "rules": [
+        "People hold expectations about distance, tone, turn-taking and appropriateness.",
+        "A violation triggers interpretation: positive, negative or ambiguous.",
+        "The effect depends on context, relationship and perceived reward/credibility of the communicator."
+      ],
+      "traps": [
+        "A violation is not automatically bad.",
+        "Do not confuse expectation violation with direct cultural disrespect before checking context."
+      ],
+      "topics": [
+        "Expectations",
+        "Nonverbal communication",
+        "Interpretation"
+      ],
+      "sourceIds": [
+        "SRC73"
+      ],
+      "qids": [],
+      "atlasOnly": true,
+      "visual": "evt",
+      "memory": "Expectation → surprise → interpretation."
+    },
+    "Intercultural Theory|Attribution": {
+      "key": "Intercultural Theory|Attribution",
+      "module": "Intercultural Theory",
+      "title": "Attribution Theory",
+      "subtitle": "归因理论",
+      "summary": "Attribution theory explains how people interpret causes of behavior and why they may misread others across cultural contexts.",
+      "rules": [
+        "Internal attribution: explain behavior by personality, intention or character.",
+        "External attribution: explain behavior by situation, role, rules or context.",
+        "Intercultural errors often arise when situational constraints are ignored."
+      ],
+      "traps": [
+        "Fundamental attribution error overweights personal causes.",
+        "One unfamiliar behavior should not trigger sweeping character judgments."
+      ],
+      "topics": [
+        "Internal attribution",
+        "External attribution",
+        "Attribution error"
+      ],
+      "sourceIds": [
+        "SRC73"
+      ],
+      "qids": [],
+      "atlasOnly": true,
+      "visual": "attribution",
+      "memory": "Before judging character, ask what the situation is doing."
+    },
+    "Intercultural Theory|Co-cultural Theory": {
+      "key": "Intercultural Theory|Co-cultural Theory",
+      "module": "Intercultural Theory",
+      "title": "Co-cultural Theory",
+      "subtitle": "共文化理论",
+      "summary": "Co-cultural theory studies how members of non-dominant groups communicate within structures shaped by dominant norms.",
+      "rules": [
+        "Common preferred outcomes: assimilation, accommodation, separation.",
+        "Common communication orientations: nonassertive, assertive, aggressive.",
+        "Strategies are shaped by context, risk, power and desired visibility."
+      ],
+      "traps": [
+        "Do not collapse all non-dominant groups into one experience.",
+        "Communication choice is shaped by power structure, not only personal style."
+      ],
+      "topics": [
+        "Power",
+        "Non-dominant groups",
+        "Communication strategy"
+      ],
+      "sourceIds": [
+        "SRC73"
+      ],
+      "qids": [],
+      "atlasOnly": true,
+      "visual": "cocultural",
+      "memory": "Think outcome + orientation = strategy choice."
+    },
+    "Intercultural Theory|Speech Codes": {
+      "key": "Intercultural Theory|Speech Codes",
+      "module": "Intercultural Theory",
+      "title": "Speech Codes Theory",
+      "subtitle": "言语代码理论",
+      "summary": "Speech codes theory reminds us that communities develop patterned ways of speaking, valuing and interpreting communication.",
+      "rules": [
+        "Different communities develop different norms for directness, silence, emotion and authority.",
+        "Speech practices are tied to social meanings and identities.",
+        "To communicate well, identify the local code before evaluating the style."
+      ],
+      "traps": [
+        "A community speech code is not identical to national culture.",
+        "One speaker may shift across multiple codes."
+      ],
+      "topics": [
+        "Community norms",
+        "Meaning systems",
+        "Local speaking styles"
+      ],
+      "sourceIds": [
+        "SRC73"
+      ],
+      "qids": [],
+      "atlasOnly": true,
+      "visual": "speechcodes",
+      "memory": "Every group has a communication grammar beyond vocabulary."
+    },
+    "Intercultural Theory|Cultural Humility": {
+      "key": "Intercultural Theory|Cultural Humility",
+      "module": "Intercultural Theory",
+      "title": "Cultural Humility",
+      "subtitle": "文化谦逊",
+      "summary": "Cultural humility stresses lifelong self-reflection, openness and attention to power rather than assuming one can completely master another culture.",
+      "rules": [
+        "Self-reflection is continuous.",
+        "Approach others with openness rather than expert certainty.",
+        "Notice power asymmetry and institutional effects, not only interpersonal style."
+      ],
+      "traps": [
+        "Humility is not passivity or lack of standards.",
+        "Knowing facts about another culture is helpful but never complete."
+      ],
+      "topics": [
+        "Self-reflection",
+        "Power",
+        "Lifelong learning"
+      ],
+      "sourceIds": [
+        "SRC73"
+      ],
+      "qids": [],
+      "atlasOnly": true,
+      "visual": "humility",
+      "memory": "From mastery posture to learning posture."
+    },
+    "Intercultural Theory|Third Culture Building": {
+      "key": "Intercultural Theory|Third Culture Building",
+      "module": "Intercultural Theory",
+      "title": "Third Culture Building",
+      "subtitle": "第三文化建构",
+      "summary": "Third culture building describes how interactants create a workable shared communication space rather than insisting that one side fully adopts the other side’s norms.",
+      "rules": [
+        "Build a mutually acceptable local norm for the interaction.",
+        "Shared rules can concern timing, turn-taking, feedback or decision procedures.",
+        "The result is negotiated and practical, not culturally pure."
+      ],
+      "traps": [
+        "Third culture is not simply splitting the difference mechanically.",
+        "A shared norm can still reflect unequal power if not examined."
+      ],
+      "topics": [
+        "Shared norms",
+        "Negotiated interaction",
+        "Hybrid practice"
+      ],
+      "sourceIds": [
+        "SRC73"
+      ],
+      "qids": [],
+      "atlasOnly": true,
+      "visual": "thirdculture",
+      "memory": "Not my rules or your rules alone — build a workable “our rules.”"
+    },
+    "Intercultural Theory|Dialectical Approach": {
+      "key": "Intercultural Theory|Dialectical Approach",
+      "module": "Intercultural Theory",
+      "title": "Dialectical Approach to Intercultural Communication",
+      "subtitle": "跨文化传播的辩证视角",
+      "summary": "A dialectical approach highlights tensions that coexist rather than choosing one side as permanently correct.",
+      "rules": [
+        "Common dialectics: cultural–individual, personal–contextual, differences–similarities, static–dynamic, history/past–present/future, privilege–disadvantage.",
+        "Effective analysis often requires holding both sides in view.",
+        "This approach is especially useful when binary stereotypes oversimplify reality."
+      ],
+      "traps": [
+        "Dialectical thinking is not indecision; it is a way to handle complexity.",
+        "Similarity and difference often coexist."
+      ],
+      "topics": [
+        "Tensions",
+        "Complexity",
+        "Context"
+      ],
+      "sourceIds": [
+        "SRC73"
+      ],
+      "qids": [],
+      "atlasOnly": true,
+      "visual": "dialectic",
+      "memory": "Think “both/and,” not only “either/or.”"
+    },
+    "Intercultural Theory|U-Curve Adaptation": {
+      "key": "Intercultural Theory|U-Curve Adaptation",
+      "module": "Intercultural Theory",
+      "title": "U-Curve / W-Curve Adaptation",
+      "subtitle": "U型 / W型适应曲线",
+      "summary": "These adaptation curves describe emotional phases often discussed in study-abroad, migration or re-entry contexts.",
+      "rules": [
+        "U-curve: honeymoon → crisis/culture shock → recovery → adjustment.",
+        "W-curve adds re-entry shock when returning home.",
+        "The model is best used as a heuristic pattern, not a universal timeline."
+      ],
+      "traps": [
+        "Not everyone follows the same sequence or intensity.",
+        "Emotional cycles should not replace structural analysis of support and power."
+      ],
+      "topics": [
+        "Culture shock",
+        "Adjustment",
+        "Re-entry"
+      ],
+      "sourceIds": [
+        "SRC73"
+      ],
+      "qids": [],
+      "atlasOnly": true,
+      "visual": "ucurve",
+      "memory": "First excitement, then dip, then recovery; returning home can create a second dip."
+    },
+    "Intercultural Theory|Trompenaars": {
+      "key": "Intercultural Theory|Trompenaars",
+      "module": "Intercultural Theory",
+      "title": "Trompenaars & Hampden-Turner",
+      "subtitle": "特罗姆彭纳斯文化维度",
+      "summary": "This framework compares how cultures handle rules, relationships, status, time and the environment, especially in organizational settings.",
+      "rules": [
+        "Universalism vs Particularism.",
+        "Individualism vs Communitarianism.",
+        "Neutral vs Emotional; Specific vs Diffuse.",
+        "Achievement vs Ascription; Sequential vs Synchronic time; Internal vs External control."
+      ],
+      "traps": [
+        "Do not mix Trompenaars dimensions with Hofstede labels without naming the framework.",
+        "The framework is most useful for organizational and managerial comparison."
+      ],
+      "topics": [
+        "Universalism",
+        "Particularism",
+        "Status",
+        "Time orientation"
+      ],
+      "sourceIds": [
+        "SRC73"
+      ],
+      "qids": [],
+      "atlasOnly": true,
+      "visual": "trompenaars",
+      "memory": "Ask how a culture handles rules, relationships, status, time and environment."
+    },
+    "Intercultural Theory|Social Identity Theory": {
+      "key": "Intercultural Theory|Social Identity Theory",
+      "module": "Intercultural Theory",
+      "title": "Social Identity Theory",
+      "subtitle": "社会身份理论",
+      "summary": "Social identity theory explains how in-group and out-group categorization shapes perception, evaluation and behavior.",
+      "rules": [
+        "People classify self and others into groups.",
+        "Identification with a group can affect solidarity and bias.",
+        "Comparison between groups can shape self-esteem and behavior."
+      ],
+      "traps": [
+        "Group identification does not erase personal identity.",
+        "In-group preference is not identical to explicit hostility."
+      ],
+      "topics": [
+        "In-group",
+        "Out-group",
+        "Categorization",
+        "Bias"
+      ],
+      "sourceIds": [
+        "SRC73"
+      ],
+      "qids": [],
+      "atlasOnly": true,
+      "visual": "socialid",
+      "memory": "Who counts as “we” often changes how “they” are seen."
+    },
+    "Intercultural Theory|Intergroup Contact": {
+      "key": "Intercultural Theory|Intergroup Contact",
+      "module": "Intercultural Theory",
+      "title": "Intergroup Contact Theory",
+      "subtitle": "群际接触理论",
+      "summary": "Contact theory explains how contact can reduce prejudice when the interaction conditions are supportive.",
+      "rules": [
+        "Classic facilitating conditions: equal status, common goals, cooperation and institutional support.",
+        "Meaningful contact can reduce anxiety and stereotype rigidity.",
+        "The quality of contact often matters more than simple frequency."
+      ],
+      "traps": [
+        "Contact alone does not automatically reduce prejudice.",
+        "Unequal or competitive contact can reinforce hostility."
+      ],
+      "topics": [
+        "Prejudice reduction",
+        "Contact conditions",
+        "Cooperation"
+      ],
+      "sourceIds": [
+        "SRC73"
+      ],
+      "qids": [],
+      "atlasOnly": true,
+      "visual": "contact",
+      "memory": "Contact works best when people work with, not against, each other."
+    },
+    "Intercultural Theory|Theory Map": {
+      "key": "Intercultural Theory|Theory Map",
+      "module": "Intercultural Theory",
+      "title": "Intercultural Theory Map",
+      "subtitle": "跨文化理论总图",
+      "summary": "Use this atlas card as a navigation map: value frameworks, interaction theories, identity theories, adaptation theories and critical/power approaches answer different questions.",
+      "rules": [
+        "Values: Hofstede, Trompenaars, Hall’s time/context emphasis.",
+        "Interaction: AUM, URT, EVT, CAT, face, conflict styles.",
+        "Identity: Identity Negotiation, CTI, Social Identity Theory.",
+        "Adaptation: Berry, U-curve, Cross-cultural Adaptation, CQ.",
+        "Critical / power: Co-cultural Theory, Cultural Humility, Dialectical Approach."
+      ],
+      "traps": [
+        "No single theory explains every intercultural problem.",
+        "Choose the theory that matches the mechanism highlighted by the question stem."
+      ],
+      "topics": [
+        "Value frameworks",
+        "Interaction",
+        "Identity",
+        "Adaptation",
+        "Power"
+      ],
+      "sourceIds": [
+        "SRC73"
+      ],
+      "qids": [],
+      "atlasOnly": true,
+      "visual": "theorymap",
+      "memory": "First ask what kind of question this is, then choose the theory family."
+    }
+  },
+  "enhancements": {
+    "Intercultural Theory|Hall": {
+      "visual": "hall",
+      "memory": "Hall = hidden meaning + space + time. Ask where meaning is carried and how interaction is timed or distanced."
+    },
+    "Intercultural Theory|Hofstede": {
+      "visual": "hofstede",
+      "memory": "Think “country-level value dashboard,” not individual personality test."
+    },
+    "Intercultural Theory|AUM": {
+      "visual": "aum",
+      "memory": "AUM = fog + nerves. Uncertainty is cognitive fog; anxiety is emotional tension."
+    },
+    "Intercultural Theory|Face Negotiation": {
+      "visual": "face",
+      "memory": "When dignity, embarrassment or reputation appears, face theory should come to mind."
+    },
+    "Intercultural Theory|Conflict Management": {
+      "visual": "conflict",
+      "memory": "Map the style on two axes: concern for self and concern for others."
+    },
+    "Intercultural Theory|CAT": {
+      "visual": "cat",
+      "memory": "CAT = move closer, keep distance or hold steady in communication style."
+    },
+    "Intercultural Theory|Identity": {
+      "visual": "identity",
+      "memory": "Identity has layers and shifts by context; nationality is only one layer."
+    },
+    "Intercultural Theory|Adaptation": {
+      "visual": "adaptation",
+      "memory": "Stress can become learning when reflection and adjustment continue."
+    },
+    "Intercultural Theory|Nonverbal Communication": {
+      "visual": "nonverbal",
+      "memory": "First identify the channel: space, touch, gesture, voice or time."
+    },
+    "Intercultural Theory|Bias": {
+      "visual": "bias",
+      "memory": "Belief → feeling → behavior: stereotype, prejudice, discrimination."
+    },
+    "Intercultural Theory|Integrated Theory": {
+      "visual": "theorymap",
+      "memory": "Diagnose the stem first: values, context, anxiety, face, strategy or adjustment?"
+    }
+  }
+}
